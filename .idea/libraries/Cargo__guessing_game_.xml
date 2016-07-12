@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Cargo &lt;guessing_game&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../ViewPoint/.cargo/registry/src/github.com-88ac128001ac3a9a/rand-0.3.14" />
+      <root url="file://$PROJECT_DIR$/../../ViewPoint/.cargo/registry/src/github.com-88ac128001ac3a9a/libc-0.2.13" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
